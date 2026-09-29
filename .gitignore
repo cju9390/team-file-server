@@ -1,0 +1,7 @@
+uploads/
+*.log
+cert.pem
+key.pem
+*.tmp
+__pycache__/
+.venv/
