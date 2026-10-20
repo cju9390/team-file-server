@@ -5,3 +5,5 @@ key.pem
 *.tmp
 __pycache__/
 .venv/
+cloudflared
+cloudflared.exe
